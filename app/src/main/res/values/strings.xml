@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KElOMPOK11-Edulectronics-App</string>
+    <string name="daftarisi">DAFTAR ISI</string>
+    <string name="Informasi">Informasi</string>
+    <string name="daftarisii">Daftar isi</string>
+    <string name="bab1">Bab 1</string>
+    <string name="bab2">Bab 2</string>
+    <string name="bab3">Bab 3</string>
+    <string name="vdrmtr">Video Rangkuman Materi</string>
+    <string name="kompelktro">Komponen-Komponen Elektronika</string>
+    <string name="analisis">Menganalisis Rangkaian Listrik</string>
+    <string name="hukumohm">Memahami Hukum OHM</string>
+    <string name="resistensiseri">Resistensi Seri Untuk dioda emisi cahaya</string>
+    <string name="sirkuittegangan">Merancang Sirkuit Untuk Pembagi Tegangan Potensiometer</string>
+    <string name="pgr1">|</string>
+    <string name="pgr2">|</string>
+    <string name="EDULECTRONICS_APP">EDULECTRONICS APP</string>
+    <string name="MDL_ELEKTRONIKA_DASAR">MODUL ELEKTRONIKA DASAR</string>
+    <string name="DAFTAR_ISI">DAFTAR ISI</string>
+    <string name="infrms">INFORMASI</string>
+</resources>
